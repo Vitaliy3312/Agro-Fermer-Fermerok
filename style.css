@@ -70,7 +70,9 @@ a:hover{
 li{
     padding:10px;
 }
-
+.Prodaga{
+    float:left;
+}
 .Історія{
     float:right;
     width:500px;
